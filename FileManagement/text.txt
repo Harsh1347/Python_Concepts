@@ -1,0 +1,5 @@
+1) Reading and writing into files
+2) using python for the task
+3) python is amazing 
+4) python has amazing capabilities 
+5) this is a demo file
